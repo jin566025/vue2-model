@@ -19,7 +19,7 @@
 </template>
 
 <script>
-	import { login,test } from '@/api/user.js'
+	import { login,test } from '@/api/adminUser.js'
 	export default{
 		data(){
 			return {
